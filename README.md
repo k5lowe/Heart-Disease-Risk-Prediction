@@ -2,7 +2,7 @@
 Machine learning project to predict the 10-year risk of coronary heart disease (CHD) based on patient health data.
 
 ## Description ##
-This project leverages machine learning techniques to predict the 10-year risk of developing coronary heart disease (CHD) based on health and lifestyle data. By analyzing key features such as age, BMI, blood pressure, and smoking habits, the model provides valuable insights into an individual's CHD risk.
+This project leverages machine learning techniques to predict the 10-year risk of developing coronary heart disease (CHD) based on health and lifestyle data provided by Kaggle.com. By analyzing key features such as age, BMI, blood pressure, and smoking habits, the model provides valuable insights into an individual's CHD risk.
 
 The dataset includes historical health data, with missing values handled using data imputation strategies. The project focuses on creating an accurate and interpretable classification model using techniques like data scaling, oversampling, and model evaluation through precision, recall, and F1-score metrics.
 
