@@ -15,7 +15,7 @@ Features:
 - Handled missing values using imputation techniques.
 - Analyzed data trends with plots and statistical summaries.
 - Built and compared models: Logistic Regression, XGBClassifier, Random Forest, etc.
-- Resolved skewed data using oversampling.
+- Resolved imbalanced data using oversampling.
 - Used precision, recall, and accuracy to measure model performance.
 - Created a pipeline for scaling, training, and predictions.
 
