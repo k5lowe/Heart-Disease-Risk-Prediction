@@ -24,6 +24,13 @@ Technologies:
 - Machine Learning
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn (sklearn)
 
+
+## Graphs ##
+
+
+![image](https://github.com/user-attachments/assets/2ee79d6b-7ae7-4e8b-b71b-504f2d90fe78)
+
+
 ## Attributions & Remarks ##
 The entirity of this project rested on the kind help of the following websites. As always, ChatGPT proved an immense help and guidance where much time and effort was saved.
 
